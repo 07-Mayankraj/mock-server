@@ -1,8 +1,34 @@
-{   
-    "todos":[
-        {"id":1,"title":"aaayushiii"},
-        {"id":2,"title":"cat"},
-        {"id":2,"title":"chikkuuu"}
+{
+    "dogs": [
+      {
+        "id": 1,
+        "name": "Cherry",
+        "age": 2,
+        "place": "Visakhapatnam",
+        "gender": "Male"
+      },
+      {
+        "id": 1,
+        "name": "Tommy",
+        "age": 3,
+        "place": "Banglore",
+        "gender": "Female"
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "Cherry",
+        "age": 2,
+        "place": "Visakhapatnam",
+        "gender": "Male"
+      },
+      {
+        "id": 1,
+        "name": "Tommy",
+        "age": 3,
+        "place": "Banglore",
+        "gender": "Female"
+      }
     ]
-
-}
+  }
